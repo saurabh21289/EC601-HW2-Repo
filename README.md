@@ -8,7 +8,7 @@ Saurabh Singh: http://www.saurabh.tech
 Both websites are hosted on the AWS Free tier using Node.js to serve the html pages and the resume files to visitors.
 
 We also forayed into iOS development using React framework and created a simple application.
-<img src="https://raw.githubusercontent.com/saurabh21289/EC601-HW2-Repo/master/AwesomeProject%20in%20React%20Native/react_native%20screenshot.png" align="middle" width="300" />
+<p align="center"> <img src="https://raw.githubusercontent.com/saurabh21289/EC601-HW2-Repo/master/AwesomeProject%20in%20React%20Native/react_native%20screenshot.png" width="300" /> </p>
 
 # Burndown Chart
 <img src= "https://raw.githubusercontent.com/saurabh21289/EC601-HW2-Repo/master/Burndown%20Chart.PNG" align="middle">
